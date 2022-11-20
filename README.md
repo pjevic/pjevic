@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Milan Pjevic.
+- 👋🏻 Hi, I’m Milan Pjevic.
 - 👀 I’m interested in ... Frontend Development.
 - 🌱 I’m currently learning ... JavaScript.
 - 💞️ I’m looking to collaborate on ... Vanila JS Project.
