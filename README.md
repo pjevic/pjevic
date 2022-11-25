@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m Milan Pjevic.
 - 👀 I’m interested in ... Frontend Development.
 - 🌱 I’m currently learning ... JavaScript.
-- 💞️ I’m looking to collaborate on ... Vanila JS Project.
+- 💞️ I’m looking to collaborate on ... Just ask! :D
 - 📫 How to reach me ... milanpjevic@icloud.com
 
 <!---
