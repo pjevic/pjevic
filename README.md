@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Milan Pjevic.
 - 👀 I’m interested in ... Frontend Development.
-- 🌱 I’m currently learning ... JavaScript.
+- 🌱 I’m currently learning ... CSS, SCSS and JavaScript.
 - 💞️ I’m looking to collaborate on ... Just ask! :D
 - 📫 How to reach me ... milanpjevic@icloud.com
 
