@@ -1,8 +1,10 @@
 - 👋🏻 Hi, I’m Milan Pjevic.
-- 👀 I’m interested in ... Frontend Development.
-- 🌱 I’m currently learning ... CSS, SCSS and JavaScript.
-- 💞️ I’m looking to collaborate on ... Just ask! :D
-- 📫 How to reach me ... milanpjevic@icloud.com
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning SCSS, BEM and JavaScript.
+- 💞️ I’m looking to collaborate on any project where I can fit. 
+- 📫 milanpjevic@icloud.com
+
+- 🐝 Let's learn and work together.
 
 <!---
 pjevic/pjevic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
