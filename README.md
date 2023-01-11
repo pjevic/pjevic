@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any project where I can fit. 
 - 📫 milanpjevic@icloud.com
 
-- 🐝 Let's co-create in synergy.
 
 <!---
 pjevic/pjevic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
