@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Milan Pjevic.
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning React. 
+- 👀 I’m interested in Frontend and Backend Development.
+- 🌱 I’m currently learning C. 
 - 💞️ I’m looking to collaborate on any project where I can fit. 
 - 📫 milanpjevic@icloud.com
 
