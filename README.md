@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm an aspiring **AI software developer**, a passi
 
 ## 🌟 Current Projects  
 
-1. **React Refresh:** Advancing React knowledge with detailed [notes and projects](https://github.com/pjevic/react-quiz). 🌱  
+1. **React Refresh:** Advancing React knowledge with detailed [notes and projects]([https://github.com/pjevic/react-quiz](https://github.com/pjevic/worldwise)). 🌱  
 2. **Astrology-AI Tool:** Ideating a revolutionary AI-driven astrology tool to deliver meaningful insights. 🪐  
 3. **Open Source Contributions:** Exploring opportunities to collaborate and contribute to impactful projects. 🤝  
 
