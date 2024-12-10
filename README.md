@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm an aspiring **AI software developer**, a passi
   <a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Babel.png" alt="Babel" style="height: 50px;"></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/NPM.png" alt="NPM" style="height: 50px;"></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/GitHub.png" alt="GitHub" style="height: 50px;"></a>
-  <a href="https://www.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Google.png" alt="Google" style="height: 50px;"></a>
+  <a href="https://developers.google.com" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Google-Developers.png" alt="Google" style="height: 50px;"></a>
   <a href="https://www.telerik.com/teststudio" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Tricentis-Tosca.png" alt="Tricentis Tosca" style="height: 50px;"></a>
 </div>
 
