@@ -8,11 +8,16 @@
 <div>H ... 🌍 ... E ...  🌏 ... L ... 🌎 ... L ... 🌍 ... O ... 🌎 ... W ... 🌍 ... O ... 🌏 ... R ... 🌎 ... L ... 🌍 ... D </div>
 </div>
 
----
 
-<h1 align="center">PJEVIC // ПЈЕВИЋ</h1>
 
-<h2 align="center">frontend developer</h2>
+<h1 align="center">wellcome</h1>
+
+<h2 align="center">Let's Build Together</h2>
+
+### 📧 https://conect/with/me
+
+- **[/LinkedIn](https://www.linkedin.com/in/milanpjevic/)**  
+- **[/Email](mailto:milanpjevic@icloud.com)**
 
 ---
 
@@ -71,17 +76,6 @@
 </div>
 
 ---
-
-
-
-## 🚀 Let's Build Together!  
-
-Whether you're a developer, designer, or someone curious about my work—I'd love to connect and collaborate. 🌟  
-
-### https://conect/with/me
-
-- **[/LinkedIn](https://www.linkedin.com/in/milanpjevic/)**  
-- **[/Email](mailto:milanpjevic@icloud.com)**  
 
 <div align="right">
 <a href="https://hits.sh/github.com/pjevic/"><img alt="Hits" src="https://hits.sh/github.com/pjevic.svg?view=today-total&style=flat-square"/></a>
