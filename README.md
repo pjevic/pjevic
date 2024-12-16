@@ -1,3 +1,14 @@
+
+
+
+
+// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
+// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
+// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
+// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
+// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
+// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
+
 # Hello, World! 🌍 I'm Pjevic!
 
 Welcome to my GitHub profile! I'm an aspiring **AI software developer**, a passionate **frontend developer**, and a lifelong learner driven by curiosity and innovation. 🚀  
