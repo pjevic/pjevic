@@ -14,11 +14,6 @@
 
 <h2 align="center">Let's Build Together</h2>
 
-### 📧 https://conect/with/me
-
-- **[/LinkedIn](https://www.linkedin.com/in/milanpjevic/)**  
-- **[/Email](mailto:milanpjevic@icloud.com)**
-
 ---
 
 <div align="left">
