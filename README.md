@@ -12,7 +12,7 @@
 
 <h1 align="center">wellcome</h1>
 
-<h2 align="center">Let's Build Together</h2>
+<h2 align="center">Let's Create Together</h2>
 
 ---
 
