@@ -1,15 +1,16 @@
 
 
+<div align="center">
+<div>H ... 🌍 ... E ...  🌏 ... L ... 🌎 ... L ... 🌍 ... O ... 🌎 ... W ... 🌍 ... O ... 🌏 ... R ... 🌎 ... L ... 🌍 ... D </div>
+<div>H ... 🌍 ... E ...  🌏 ... L ... 🌎 ... L ... 🌍 ... O ... 🌎 ... W ... 🌍 ... O ... 🌏 ... R ... 🌎 ... L ... 🌍 ... D </div>
+<div>H ... 🌍 ... E ...  🌏 ... L ... 🌎 ... L ... 🌍 ... O ... 🌎 ... W ... 🌍 ... O ... 🌏 ... R ... 🌎 ... L ... 🌍 ... D </div>
+<div>H ... 🌍 ... E ...  🌏 ... L ... 🌎 ... L ... 🌍 ... O ... 🌎 ... W ... 🌍 ... O ... 🌏 ... R ... 🌎 ... L ... 🌍 ... D </div>
+<div>H ... 🌍 ... E ...  🌏 ... L ... 🌎 ... L ... 🌍 ... O ... 🌎 ... W ... 🌍 ... O ... 🌏 ... R ... 🌎 ... L ... 🌍 ... D </div>
+</div>
 
+---
 
-// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
-// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
-// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
-// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
-// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
-// hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏 // hello 🌎 // hello 🌍 // hello 🌏
-
-# I'm Pjevic!
+<h1 align="center">PJEVIC // ПЈЕВИЋ</h1>
 
 Welcome to my GitHub profile! I'm an aspiring **AI software developer**, a passionate **frontend developer**, and a lifelong learner driven by curiosity and innovation. 🚀  
 
