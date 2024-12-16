@@ -10,7 +10,7 @@
 
 
 
-<h1 align="center">wellcome</h1>
+<h1 align="center">welcome</h1>
 
 <h2 align="center">Let's Create Together</h2>
 
