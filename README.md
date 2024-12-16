@@ -14,26 +14,7 @@
 
 <h2 align="center">frontend developer</h2>
 
-### https://conect/with/me
-
-- **[/LinkedIn](https://www.linkedin.com/in/milanpjevic/)**  
-- **[/Email](mailto:milanpjevic@icloud.com)**  
-
-
-
-
-
-___
-
-## 🌟 About Me  
-
-- 🧑‍💻 Currently mastering **React.js** with Jonas Schmedtmann.   
-- 🛠️ Exploring the synergy between **astrology** and **AI** to build tools that blend logic and intuition.  
-- 🌍 Based in Kikinda, Serbia
-
 ---
-
-## 🛠️ Tools I Use and Technologies I’ve Explored So Far
 
 <div align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/React.png" alt="Logo React" style="height: 55px;"></a>
@@ -91,30 +72,16 @@ ___
 
 ---
 
-## 🌟 Current Projects  
 
-1. **React Refresh:** Advancing React knowledge with detailed [notes and projects]([https://github.com/pjevic/react-quiz](https://github.com/pjevic/worldwise)). 🌱  
-2. **Astrology-AI Tool:** Ideating a revolutionary AI-driven astrology tool to deliver meaningful insights. 🪐  
-3. **Open Source Contributions:** Exploring opportunities to collaborate and contribute to impactful projects. 🤝  
-
----
-
-## 📚 Lifelong Learner  
-
-I'm passionate about:  
-- **Tech & Innovation:** Exploring cutting-edge trends and tools.  
-- **Astrology Meets AI:** Bridging ancient knowledge with modern technology.  
-- **Geopolitics & Culture:** Understanding how diversity shapes our world.  
-
----
-
-
-
----
 
 ## 🚀 Let's Build Together!  
 
 Whether you're a developer, designer, or someone curious about my work—I'd love to connect and collaborate. 🌟  
+
+### https://conect/with/me
+
+- **[/LinkedIn](https://www.linkedin.com/in/milanpjevic/)**  
+- **[/Email](mailto:milanpjevic@icloud.com)**  
 
 <div align="right">
 <a href="https://hits.sh/github.com/pjevic/"><img alt="Hits" src="https://hits.sh/github.com/pjevic.svg?view=today-total&style=flat-square"/></a>
