@@ -15,13 +15,13 @@
 ---
 
 <div align="left">
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/NextJS.png" alt="Logo Next.js" style="height: 55px;"></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/React.png" alt="Logo React" style="height: 55px;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/JavaScript.png" alt="Logo JavaScript" style="height: 55px;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/HTML.png" alt="Logo HTML" style="height: 55px;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/CSS.png" alt="Logo CSS" style="height: 55px;"></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Sass.png" alt="Logo Sass" style="height: 55px;"></a>
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/SwiftUI.png" alt="Logo SwiftUI" style="height: 55px;"></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/NextJS.png" alt="Logo Next.js" style="height: 55px;"></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Redux.png" alt="Logo Redux" style="height: 55px;"></a>
   <a href="https://reactrouter.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/React-Router.png" alt="Logo React-Router" style="height: 55px;"></a>
   <a href="https://react-query.tanstack.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/React-Query.png" alt="Logo React-Query" style="height: 55px;"></a>
