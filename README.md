@@ -21,7 +21,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/HTML.png" alt="Logo HTML" style="height: 55px;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/CSS.png" alt="Logo CSS" style="height: 55px;"></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Sass.png" alt="Logo Sass" style="height: 55px;"></a>
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/SwiftUI.png" alt="Logo SwiftUI" style="height: 55px;"></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Redux.png" alt="Logo Redux" style="height: 55px;"></a>
   <a href="https://reactrouter.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/React-Router.png" alt="Logo React-Router" style="height: 55px;"></a>
   <a href="https://react-query.tanstack.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/React-Query.png" alt="Logo React-Query" style="height: 55px;"></a>
@@ -42,6 +41,7 @@
   <a href="https://www.sketch.com/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Sketch.png" alt="Logo Sketch" style="height: 55px;"></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Adobe-Illustrator.png" alt="Logo Adobe Illustrator" style="height: 55px;"></a>
   <a href="https://spline.design/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Spline.png" alt="Logo Spline" style="height: 55px;"></a>
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/SwiftUI.png" alt="Logo SwiftUI" style="height: 55px;"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/Python.png" alt="Logo Python" style="height: 55px;"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/C.png" alt="Logo C" style="height: 55px;"></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/NodeJS.png" alt="Logo Node.js" style="height: 55px;"></a>
