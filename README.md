@@ -14,7 +14,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/NextJS.png" alt="Logo Next.js" style="height: 55px;"></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/React.png" alt="Logo React" style="height: 55px;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/pjevic/course-goal/refs/heads/main/public/images/logos/JavaScript.png" alt="Logo JavaScript" style="height: 55px;"></a>
